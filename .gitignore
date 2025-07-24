@@ -1,0 +1,11 @@
+node_modules
+.vscode
+.env
+
+tracking-prod-records.*
+
+attentioned_listed.json
+attentioned_watched.json
+movies_listed.json
+movies_watched.json
+needAttention.json
