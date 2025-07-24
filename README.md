@@ -1,6 +1,6 @@
 # TV Time to Trakt Movies
 
-This scripts converts the movies watched on TV Time to Trakt.
+This scripts converts the movies watched on TV Time to Trakt importing format.
 
 ## Prerequisites
 
