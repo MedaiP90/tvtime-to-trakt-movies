@@ -16,6 +16,13 @@ Open [Trakt](https://trakt.tv/oauth/applications) and create a new *API*. Then i
 - `TRAKT_CLIENT_ID`
 - `TRAKT_CLIENT_SECRET`
 
+Example:
+
+```
+TRAKT_CLIENT_ID=123456abcde...
+TRAKT_CLIENT_SECRET=123456abcde...
+```
+
 ## Usage
 
 First of all you need to add your Trakt API credentials to the `.env` file (see [Environment variables](#environment-variables)).
